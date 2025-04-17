@@ -1,0 +1,1 @@
+Develop a real-time driver alertness monitoring system using sensors and deep learning techniques to detect signs of fatigue such as prolonged eye closure and yawning, triggering timely alerts to ensure safe driving.
